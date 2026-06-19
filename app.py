@@ -6,7 +6,7 @@ st.set_page_config(page_title="Document Q&A Bot", page_icon="📄")
 st.title("📄 Document Q&A Bot")
 st.write("Upload a PDF and ask questions about it.")
 
-BACKEND_URL = "https://rag-document-qa-bot-5ohu.onrender.com/"
+BACKEND_URL = "https://rag-document-qa-bot-5ohu.onrender.com"
 
 # --- Upload section ---
 st.header("1. Upload a document")
